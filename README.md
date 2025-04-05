@@ -1,4 +1,5 @@
-Lab 1.2
-![image](https://github.com/user-attachments/assets/bf64bb54-6b12-4485-8df2-5d7b1cba8e80)
-
-![image](https://github.com/user-attachments/assets/f6dc5c9a-dff5-4bb1-b56c-d338c81fb36c)
+Lab 5.2
+### Description
+![image](https://github.com/user-attachments/assets/763f0007-9c37-45df-a63c-086c79b95f23)
+# Result
+![Lab5_Answer](https://github.com/user-attachments/assets/6904dac2-1ac1-473d-9e14-bdb172fdec90)
