@@ -1,4 +1,9 @@
-Lab 1.2
-![image](https://github.com/user-attachments/assets/bf64bb54-6b12-4485-8df2-5d7b1cba8e80)
+Lab 9.2
+### Description 
+![image](https://github.com/user-attachments/assets/9ecd25c1-6ea6-41e4-a6d2-44adfa60e7a9)
+![image](https://github.com/user-attachments/assets/7c2322b4-7829-4221-9bc1-dd6bccc713ea)
 
-![image](https://github.com/user-attachments/assets/f6dc5c9a-dff5-4bb1-b56c-d338c81fb36c)
+
+
+## Result
+![Lab9_Answer](https://github.com/user-attachments/assets/c2aed3bc-e700-4831-a7d0-1da70ce9d9a1)
