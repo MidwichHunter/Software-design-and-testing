@@ -6,4 +6,5 @@ Lab 9.2
 
 
 ## Result
-![Lab9_Answer](https://github.com/user-attachments/assets/c2aed3bc-e700-4831-a7d0-1da70ce9d9a1)
+![Lab9_Answer](https://github.com/user-attachments/assets/10434117-1076-4deb-b437-6cd4bd3b7561)
+
